@@ -8,6 +8,6 @@ Welcome to my Github. I'm Amilcar, I was born in Argentina 🇦🇷 in 1996
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amilcar-cattaneo/)
 
  
-[![Amilcar's github stats](https://github-readme-stats.vercel.app/api?username=amilcarcattaneo&theme=default&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Amilcar's github stats](https://github-readme-stats.vercel.app/api?username=amilcarcattaneo&theme=default&show_icons=true&count_private=true)](https://github.com/amilcarcattaneo)
 
-[![Amilcar's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=amilcarcattaneo&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Amilcar's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=amilcarcattaneo&layout=compact&count_private=true)](https://github.com/amilcarcattaneo)
